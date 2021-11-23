@@ -258,9 +258,7 @@ class Login extends React.Component {
                 role="tabpanel"
               >
                 <div className="signin__form__text">
-                  <p>username: "admin", password: "1" to review dashboard</p>
-                  <p>username: "user1", password: "1" to review user function</p>
-                  <p>with your social network :</p>
+               
                   <div className="rounded">
                     <FacebookLogin
                       appId="237859344122069"
